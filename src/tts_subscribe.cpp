@@ -12,9 +12,9 @@
 #include <errno.h>
 
 
-#include "robot_voice/qtts.h"
-#include "robot_voice/msp_cmn.h"
-#include "robot_voice/msp_errors.h"
+#include "qtts.h"
+#include "msp_cmn.h"
+#include "msp_errors.h"
 
 #include "ros/ros.h"
 #include "std_msgs/String.h"

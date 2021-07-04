@@ -7,10 +7,10 @@
 #include <string.h>
 #include <unistd.h>
 #include <termio.h>
-#include "robot_voice/qisr.h"
-#include "robot_voice/msp_cmn.h"
-#include "robot_voice/msp_errors.h"
-#include "robot_voice/speech_recognizer.h"
+#include "qisr.h"
+#include "msp_cmn.h"
+#include "msp_errors.h"
+#include "speech_recognizer.h"
 #include <iconv.h>
 
 #include "ros/ros.h"

@@ -10,11 +10,11 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include "robot_voice/speech_recognizer.h"
-#include "robot_voice/qisr.h"
-#include "robot_voice/msp_cmn.h"
-#include "robot_voice/msp_errors.h"
-#include "robot_voice/linuxrec.h"
+#include "speech_recognizer.h"
+#include "qisr.h"
+#include "msp_cmn.h"
+#include "msp_errors.h"
+#include "linuxrec.h"
 
 
 #define SR_DBGON 1
